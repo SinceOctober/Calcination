@@ -119,4 +119,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ---
 
-For more information, please refer to the code documentation and example usage provided above.
